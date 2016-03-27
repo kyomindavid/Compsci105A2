@@ -1,0 +1,23 @@
+CompSci 105 S1 2014
+===================
+Feedback on Assignment Two
+--------------------------
+
+Name: Kyomin Ku
+
+Login: kku031
+
+ID: 5521999
+
+
+All the work done in this assignment is my own work. (Yes/No) Yes.
+
+How much time did the assignment take overall? 4days
+
+What areas of the assignment did you find easy? Question 1
+
+What areas of the assignment did you find difficult? Question 2, displaying the result
+
+Which topics of the course did the assignment most help you understand? linked lists and stacks
+
+Any other comments:
